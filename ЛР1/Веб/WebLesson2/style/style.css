@@ -1,0 +1,30 @@
+body { 
+    color: blue; 
+    
+}
+
+.reg { 
+    color: red;
+}
+
+
+#reg{
+    color: greenyellow;
+    size: 5cm;
+}
+
+a:link { 
+    color: blue; 
+}
+
+a:visited { 
+    color: black; 
+}
+
+a:hover{ 
+    color: green; 
+}
+
+a.love:active { 
+    color: red; text-decoration: underline; 
+}
